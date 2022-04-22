@@ -1,2 +1,7 @@
-# flexbox-project.github.io
+# PROJETO-FLEXBOX
 PROJETO COM CSS-HTML-FLEXBOX - SITE DE TURISMO
+
+PROJETO FLEXBOX DE UMA EMPRESA DE TURISMO
+EXEMPLO - ANDRETURISMO
+
+DISPONÍVEL EM: https://flexbox-project-github-b0vs0d188-runmand.vercel.app/
